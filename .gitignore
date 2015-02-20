@@ -1,3 +1,11 @@
+.env
+*~
+*.png
+
+# Don't track scraped files (TODO: stick these someplace where I don't
+# need to keep editing .gitignore!)
+2012_03_26
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
